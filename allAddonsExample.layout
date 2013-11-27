@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\oscVGrabber.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="243" topLine="0" />
+	</File>
+	<File name="src\oscVPlayer.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2001" topLine="88" />
+	</File>
+	<File name="src\oscVPlayer.h" open="0" top="0" tabpos="2">
+		<Cursor position="583" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="27276" topLine="740" />
+	</File>
+</CodeBlocks_layout_file>

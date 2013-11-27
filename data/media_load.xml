@@ -1,0 +1,51 @@
+<media_load>0</media_load>
+<grabber>
+	<numID>1</numID>
+	<x>0</x>
+	<y>300</y>
+	<width>250</width>
+	<height>200</height>
+</grabber>
+<image>
+	<file>imagen1.jpg</file>
+	<numID>1</numID>
+	<x>330</x>
+	<y>380</y>
+	<width>280</width>
+	<height>150</height>
+	<alpha>0</alpha>
+</image>
+<video>
+	<file>fingers.mov</file>
+	<numID>1</numID>
+	<x>30</x>	
+	<y>100</y>
+	<width>280</width>
+	<height>150</height>
+	<play>1</play>
+	<speed>3</speed>
+	<loop>1</loop>
+	<frame>1</frame>
+	<volume>255</volume>	
+</video>
+<video>
+	<file>fingers.mov</file>
+	<numID>2</numID>
+	<x>450</x>
+	<y>220</y>
+	<width>250</width>
+	<height>190</height>
+	<play>1</play>
+	<speed>-1</speed>
+	<loop>1</loop>
+	<frame>1</frame>
+	<volume>255</volume>
+</video>
+<video>
+	<file>fingers.mov</file>
+	<numID>4</numID>
+	<x>510</x>
+	<y>120</y>
+	<width>-250</width>
+	<height>190</height>
+</video>

@@ -1,0 +1,23 @@
+<oscVideoServer>
+    <fullscreen>0</fullscreen>
+    <pos>
+        <x>100</x>
+        <y>100</y>
+    </pos>
+    <size>
+        <width>800</width>
+        <height>600</height>
+    </size>
+    <color>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+    </color>
+    <cursor>1</cursor>
+    <title>oscVideoServer testing</title>    
+    <verbose>0</verbose>
+    <port>9000</port>
+    <numoflayers>20</numoflayers>
+    <reportinput>0</reportinput>
+	<shot_time>5000</shot_time>
+</oscVideoServer>
